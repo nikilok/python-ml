@@ -1,0 +1,5 @@
+customerID,category,first_visit,sales_x,distance,sales_y
+101,Medium,yes,123,12.0,123.0
+102,Medium,no,52,,
+103,High,yes,214,9.0,214.0
+104,Low,yes,663,44.0,663.0
